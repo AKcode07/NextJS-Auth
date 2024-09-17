@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   - Prisma
 
 ## Starter Code
-  Clone the UI of Form from https://github.com/candraKriswinarto/nextjs-auth.git
+  Cloned the UI of Form from https://github.com/candraKriswinarto/nextjs-auth.git
